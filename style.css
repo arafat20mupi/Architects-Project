@@ -221,6 +221,7 @@ footer p{
     }
     nav li{
         margin-left: 0;
+        font-size: 1rem;
     }
     nav,
      .team-container,
