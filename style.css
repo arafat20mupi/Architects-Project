@@ -219,6 +219,9 @@ footer p{
     header{
         padding: 20px;
     }
+    nav li{
+        margin-left: 0;
+    }
     nav,
      .team-container,
      .features,
